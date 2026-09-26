@@ -6,9 +6,9 @@
   I'm Prajyot :)
 </h1>
 
-<p align="center" >
-  i love to solve problems
-</p>
+<h2 align="center">
+  I love to solve problems
+</h2>
 
 <hr>
 
