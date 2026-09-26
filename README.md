@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://www.instagram.com/prajyot_jore/">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="75">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="36">
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/prajyot-jore-a967462b3/">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="75">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36">
   </a>
 </p>
