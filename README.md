@@ -20,4 +20,8 @@
   <a href="https://www.linkedin.com/in/prajyot-jore-a967462b3/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="75">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Prajyot_2006/">
+    <img src="https://cdn.simpleicons.org/leetcode" width="75">
+  </a>
 </p>
