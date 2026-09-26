@@ -22,6 +22,8 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/Prajyot_2006/">
-    <img src="https://cdn.simpleicons.org/leetcode" width="75">
+    <span style="background-color:white; padding:5px; border-radius:8px;">
+      <img src="https://cdn.simpleicons.org/leetcode" width="68">
+    </span>
   </a>
 </p>
