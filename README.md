@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="./assets/aizenGIF.gif" width="500">
+  <img src="./assets/aizenGIF.gif" width="650">
 </p>
 
 <h1 align="center">
-  I'm Prajyot Jore
+  I'm Prajyot :)
 </h1>
 
 <p align="center">
