@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/aizen.mp4" width="650">
+  <img src="./assets/aizenGIF.gif" width="650">
 </p>
 
 <h1 align="center">
   I'm Prajyot :)
 </h1>
 
-<p align="center" width="55">
+<p align="center">
   i love to solve problems
 </p>
 
