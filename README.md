@@ -9,16 +9,19 @@
 </h1>
 
 <p align="center">
-  Java | DSA | AI
+  i love to solve problems
 </p>
 
 <hr>
 
 <p align="center">
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat&logo=instagram&logoColor=white">
+  <a href="https://www.instagram.com/prajyot_jore/">
+    <img src="https://cdn.simpleicons.org/instagram" width="35">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white">
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/prajyot-jore-a967462b3/">
+    <img src="https://cdn.simpleicons.org/linkedin" width="35">
   </a>
 </p>
