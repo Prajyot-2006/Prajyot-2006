@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="./assets/aizen.gif" width="500">
+  <img src="./assets/aizenGIF.gif" width="500">
 </p>
 
 <h1 align="center">
