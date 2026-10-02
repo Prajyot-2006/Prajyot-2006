@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/aizenGIF.gif" width="650">
+  <img src="./assets/animeGIF.gif" width="650">
 </p>
 
 <h1 align="center">
